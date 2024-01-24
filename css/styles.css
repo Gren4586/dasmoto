@@ -1,0 +1,44 @@
+/*Author: Damien Aldridge
+Date: 1/24/2024
+File name: index.html*/
+
+/* Styles that apply to multiple things */
+* {
+    font-family: helvetica;
+}
+
+span.productprice {
+    font-weight: bold;
+    color: blue;
+}
+
+/* Header */
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("../media/pattern.jpeg");
+}
+
+/* Products */
+
+h2.brushproduct {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h2.frameproduct {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+h2.paintproduct {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
