@@ -22,23 +22,20 @@ h1 {
 
 /* Products */
 
-h2.brushproduct {
+h2.product {
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+
+h2.brush {
     background-color: mediumspringgreen;
 }
 
-h2.frameproduct {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
+h2.frame {
     background-color: lightcoral;
 }
 
-h2.paintproduct {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
+h2.paint {
     background-color: skyblue;
 }
